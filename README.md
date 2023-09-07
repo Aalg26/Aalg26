@@ -1,5 +1,9 @@
 # 💫 About Me:
-👨🏻‍💻 Estudiante en el bootcamp Henry 🚀<br>🌱 Apasionado por la tecnología y el desarrollo web 💻🌐<br>📚 Aprendiendo constantemente y construyendo proyectos emocionantes 🛠️🔥<br>¡Conéctate conmigo para hablar sobre mi viaje de aprendizaje y colaboraciones interesantes! 😄👋📖
+👨🏻‍💼 Data Scientist en constante aprendizaje 📊🔍<br>
+🌱 Apasionado por la tecnología y la ciencia de datos 🌐🧬<br>
+📚 Siempre construyendo proyectos emocionantes y explorando datos fascinantes 🛠️🔥<br>
+¡Conéctate conmigo para hablar sobre mi viaje de aprendizaje y colaboraciones interesantes! 😄👋📖
+
 
 
 ## 🌐 Socials:
